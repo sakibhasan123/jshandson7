@@ -1,1 +1,1 @@
-# jshandson7
+# JS Handson 7 (Objects)
